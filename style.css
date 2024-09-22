@@ -75,3 +75,18 @@ body{
     top: 20px;
     font-weight: bold;
 }
+
+@media (max-width: 900px){
+    .examLinkContainer{
+        display: block;
+        justify-content: center;
+        top: 75px;
+    }
+
+    .examDisplayContainer{
+        top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+    }
+}
