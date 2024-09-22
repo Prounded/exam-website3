@@ -3,8 +3,8 @@ document.addEventListener('click', checkInput);
 const ALL_URL = {
     'Bahasa Indonesia':     '',
     'Pendidikan Pancasila': 'https://forms.gle/j143QEsf6kebw5FHA',
-    'Matematika':           '',
-    'Pendidikan Katolik':   '',
+    'Matematika':           'https://forms.gle/cBKDwRYm4btb5ccYA',
+    'Agama Katolik':        'https://forms.gle/MvKmofovaXexLn8v5',
     'Bahasa Inggris':       '',
     'Informatika':          '',
     'IPS':                  '',
@@ -150,7 +150,7 @@ function addExam(days) {
     }
     else if (days == 'day 2') {
         createDiv('Matematika');
-        createDiv('Pendidikan Katolik');
+        createDiv('Agama Katolik');
         document.getElementById('dateDisplay').textContent = 'Senin, 23 September 2024';
     }
     else if (days == 'day 3') {
