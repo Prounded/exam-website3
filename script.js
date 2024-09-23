@@ -6,7 +6,7 @@ const ALL_URL = {
     'Matematika':           'https://forms.gle/cBKDwRYm4btb5ccYA',
     'Agama Katolik':        'https://forms.gle/MvKmofovaXexLn8v5',
     'Bahasa Inggris':       '',
-    'Informatika':          '',
+    'Informatika':          'https://forms.gle/kVHBW6oh5uMm7Zqm6',
     'IPS':                  '',
     'PJOK':                 '',
     'Prakarya':             '',
