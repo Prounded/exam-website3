@@ -8,7 +8,7 @@ const ALL_URL = {
     'Bahasa Inggris':       '',
     'Informatika':          'https://forms.gle/kVHBW6oh5uMm7Zqm6',
     'IPS':                  'https://forms.gle/xMnvEDDGinc694376',
-    'PJOK':                 '',
+    'PJOK':                 'https://forms.gle/tUXJGwEyMLuY7zj69',
     'Prakarya':             '',
     'Kemarsudirinian':      '',
     'IPA':                  ''
