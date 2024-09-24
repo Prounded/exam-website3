@@ -7,7 +7,7 @@ const ALL_URL = {
     'Agama Katolik':        'https://forms.gle/MvKmofovaXexLn8v5',
     'Bahasa Inggris':       '',
     'Informatika':          'https://forms.gle/kVHBW6oh5uMm7Zqm6',
-    'IPS':                  '',
+    'IPS':                  'https://forms.gle/xMnvEDDGinc694376',
     'PJOK':                 '',
     'Prakarya':             '',
     'Kemarsudirinian':      '',
