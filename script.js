@@ -9,8 +9,8 @@ const ALL_URL = {
     'Informatika':          'https://forms.gle/kVHBW6oh5uMm7Zqm6',
     'IPS':                  'https://forms.gle/xMnvEDDGinc694376',
     'PJOK':                 'https://forms.gle/tUXJGwEyMLuY7zj69',
-    'Prakarya':             '',
-    'Kemarsudirinian':      '',
+    'Prakarya':             'https://forms.gle/ND17T1Ctymt9qiPq7',
+    'Kemarsudirinian':      'https://forms.gle/nLwBuAoUv6MgzSHg7',
     'IPA':                  ''
 }
 
